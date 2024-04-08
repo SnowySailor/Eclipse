@@ -1,0 +1,89 @@
+actions (Camera Actions): None
+  syncdatetimeutc (Synchronize camera date and time with PC (UTC)): 0
+  syncdatetime (Synchronize camera date and time with PC): 0
+  uilock (UI Lock): 2
+  popupflash (Popup Flash): 2
+  autofocusdrive (Drive Canon DSLR Autofocus): 0
+  manualfocusdrive (Drive Canon DSLR Manual focus): None
+  cancelautofocus (Cancel Canon DSLR Autofocus): 0
+  eoszoom (Canon EOS Zoom): 0
+  eoszoomposition (Canon EOS Zoom Position): 0,0
+  viewfinder (Canon EOS Viewfinder): 0
+  eosremoterelease (Canon EOS Remote Release): None
+  eosmoviemode (Movie Mode): 2
+  opcode (PTP Opcode): 0x1001,0xparam1,0xparam2
+settings (Camera Settings): None
+  datetimeutc (Camera Date and Time): 1712375590
+  datetime (Camera Date and Time): 1712371990
+  output (Camera Output): TFT
+  movierecordtarget (Recording Destination): SDRAM
+  evfmode (EVF Mode): 1
+  ownername (Owner Name): 
+  artist (Artist): 
+  copyright (Copyright): 
+  nickname (Nickname): EOSR5_7C09B0
+  customfuncex (Custom Functions Ex): 38,1,1,2c,3,101,1,0,108,1,0,112,1,0,
+  focusarea (Focus Area): 4294934399
+  strobofiring (Strobo Firing): 2
+  flashcharged (Flash Charging State): 0
+  oneshotrawon (One Shot Raw On): 0
+  autopoweroff (Auto Power Off): 60
+  depthoffield (Depth of Field): 0
+  capturetarget (Capture Target): Internal RAM
+  capture (Capture): 0
+  remotemode (Remote Mode): 0
+  eventmode (Event Mode): 0
+  testolc (Test OLC): 2
+status (Camera Status Information): None
+  serialnumber (Serial Number): 4f51471244410f9d4ea5489583a9aeec
+  manufacturer (Camera Manufacturer): Canon.Inc
+  cameramodel (Camera Model): Canon EOS R5
+  deviceversion (Device Version): 3-1.8.1
+  vendorextension (Vendor Extension): 
+  model (Camera Model): 2147484705
+  batterylevel (Battery Level): 62%
+  batterylevel (Battery Level): 75%
+  mirrorlockstatus (Mirror Lock Status): 0
+  mirrordownstatus (Mirror Down Status): 0
+  lensname (Lens Name): RF24-105mm F4 L IS USM
+  eosserialnumber (Serial Number): 192024001102
+  availableshots (Available Shots): 22543
+  eosmovieswitch (Movie Switch): 0
+imgsettings (Image Settings): None
+  imageformat (Image Format): RAW + Smaller JPEG
+  imageformatsd (Image Format SD): RAW + Smaller JPEG
+  imageformatcf (Image Format CF): RAW + Smaller JPEG
+  iso (ISO Speed): 100
+  whitebalance (WhiteBalance): Auto
+  colortemperature (Color Temperature): 5200
+  whitebalanceadjusta (WhiteBalance Adjust A): 0
+  whitebalanceadjustb (WhiteBalance Adjust B): 0
+  whitebalancexa (WhiteBalance X A): 0
+  whitebalancexb (WhiteBalance X B): 0
+  colorspace (Color Space): sRGB
+capturesettings (Capture Settings): None
+  exposurecompensation (Exposure Compensation): -1
+  focusmode (Focus Mode): Manual
+  continuousaf (Continuous AF): Off
+  aspectratio (Aspect Ratio): 3:2
+  afmethod (AF Method): LiveSingleExpandSurround
+  storageid (Storage Device): 00010001
+  highisonr (High ISO Noise Reduction): Off
+  autoexposuremode (Canon Auto Exposure Mode): AV
+  autoexposuremodedial (Canon Auto Exposure Mode Dial): AV
+  drivemode (Drive Mode): Continuous low speed
+  picturestyle (Picture Style): Standard
+  aperture (Aperture): 4
+  shutterspeed (Shutter Speed): 30
+  meteringmode (Metering Mode): Evaluative
+  liveviewsize (Live View Size): val 1
+  bracketmode (Bracket Mode): Unknown value 0000
+  aeb (Auto Exposure Bracketing): off
+  alomode (Auto Lighting Optimization): Standard (disabled in manual exposure)
+  movieservoaf (Movie Servo AF): Off
+other (Other PTP Device Properties): None
+  d402 (PTP Property 0xd402): Canon EOS R5
+  d407 (PTP Property 0xd407): 1
+  d406 (PTP Property 0xd406): Unknown Initiator
+  d303 (PTP Property 0xd303): 1
+  5001 (Battery Level): 62
